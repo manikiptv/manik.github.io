@@ -177,6 +177,275 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg",Geo Super ( PK )
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",&PRIVE HD-Rs 19
+http://59.103.231.214:8000/play/a055
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",&flix HD-Rs19
+http://59.103.231.214:8000/play/a04m
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",&pictures HD -Rs19
+http://59.103.231.214:8000/play/a04z
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",1280-14
+http://59.103.231.214:8000/play/a031
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",ANIMAL PLAN HD-Rs3
+http://59.103.231.214:8000/play/a04t
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",CARTOON-Rs4.25
+http://59.103.231.214:8000/play/a045
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Colors HD-Rs 19
+http://59.103.231.214:8000/play/a04l
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",DISCOVERY K-Rs3
+http://59.103.231.214:8000/play/a04f
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Discovery HD-Rs6
+http://59.103.231.214:8000/play/a03v
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Discovery S-Rs1
+http://59.103.231.214:8000/play/a057
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Discovery T-Rs1
+http://59.103.231.214:8000/play/a058
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Disney Chan-Rs8
+http://59.103.231.214:8000/play/a047
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Disney Jr.-Rs 4
+http://59.103.231.214:8000/play/a04a
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",EuroSports HD-Rs 6
+http://59.103.231.214:8000/play/a04o
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",FOX Life HD-Rs1
+http://59.103.231.214:8000/play/a05e
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",HISTORY TV18 HD-Rs7
+http://59.103.231.214:8000/play/a04v
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Investigation Discovery-Rs1
+http://59.103.231.214:8000/play/a03l
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",MAX HD -Rs 17
+http://59.103.231.214:8000/play/a03j
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",MN+ HD-Rs 10
+http://59.103.231.214:8000/play/a03r
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",MTV - Rs 3
+http://59.103.231.214:8000/play/a04d
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",MTV Beats- 10p
+http://59.103.231.214:8000/play/a04g
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Movies Active HD- Rs 64
+http://59.103.231.214:8000/play/a03o
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Music Active Masala- Rs 40
+http://59.103.231.214:8000/play/a049
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",NAT Geo Wild HD-Rs 5
+http://59.103.231.214:8000/play/a03k
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",National G HD-Rs10
+http://59.103.231.214:8000/play/a03u
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Nick Jr. - Rs1
+http://59.103.231.214:8000/play/a04e
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",PIX HD - Rs 15
+http://59.103.231.214:8000/play/a04y
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Pogo - Rs 4.25
+http://59.103.231.214:8000/play/a04c
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",SET HD - Rs 19
+http://59.103.231.214:8000/play/a04n
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",SIX HD - Rs 19
+http://59.103.231.214:8000/play/a03h
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",SONIC- Rs 2
+http://59.103.231.214:8000/play/a04b
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",SONY MAX 2 - Rs 1
+http://59.103.231.214:8000/play/a05d
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",STAR BHARAT HD-Rs19
+http://59.103.231.214:8000/play/a04s
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",STAR MOV HD-Rs 19
+http://59.103.231.214:8000/play/a03s
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",STAR WOR P HD-Rs9
+http://59.103.231.214:8000/play/a03c
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",STAR WORLD HD -Rs9
+http://59.103.231.214:8000/play/a03d
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Sony BBC EarHD-Rs10
+http://59.103.231.214:8000/play/a04x
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Sony Ten 1 HD- Rs 19
+http://59.103.231.214:8000/play/a03g
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Sony Ten 2 HD- Rs 17
+http://59.103.231.214:8000/play/a052
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Sony Ten 3 HD- Rs 17
+http://59.103.231.214:8000/play/a03m
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Sony Ten 4 - Rs 17
+http://59.103.231.214:8000/play/a044
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star GOLD HD -Rs10
+http://59.103.231.214:8000/play/a04u
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Gold 2- Rs 1
+http://59.103.231.214:8000/play/a05b
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Gold SelHD-Rs10
+http://59.103.231.214:8000/play/a04w
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Plus HD -Rs19
+http://59.103.231.214:8000/play/a04j
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star S Hin 1 HD- Rs19
+http://59.103.231.214:8000/play/a03i
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Spo 1 HD-Rs19
+http://59.103.231.214:8000/play/a03e
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Spo 2 HD- Rs19
+http://59.103.231.214:8000/play/a03f
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Sports S 1 HD-Rs19
+http://59.103.231.214:8000/play/a050
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Star Sports S 2 HD-Rs10
+http://59.103.231.214:8000/play/a051
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",StarMov S HD-Rs 10
+http://59.103.231.214:8000/play/a03t
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",TLC HD- Rs3
+http://59.103.231.214:8000/play/a03p
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",UTV ACTION-Rs 2
+http://59.103.231.214:8000/play/a05a
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",UTV MOVIES-Rs 2
+http://59.103.231.214:8000/play/a059
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",ZEE BOLLYWO-Rs2
+http://59.103.231.214:8000/play/a05c
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",ZEE CINEMA HD-Rs19
+http://59.103.231.214:8000/play/a04r
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",ZEE Cafe H-Rs19
+http://59.103.231.214:8000/play/a03q
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",ZEE TV HD-Rs 19
+http://59.103.231.214:8000/play/a04k
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",Zoom - 50p
+http://59.103.231.214:8000/play/a04h
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",bindass - Rs 1
+http://59.103.231.214:8000/play/a04p
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",colors INFIN HD-Rs9
+http://59.103.231.214:8000/play/a053
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",hungama tv-Rs 6
+http://59.103.231.214:8000/play/a046
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",nick - Rs 6
+http://59.103.231.214:8000/play/a048
+#EXTINF:-1 tvg-logo=""group-title="DISH TV",nick HD+- Rs 10
+http://59.103.231.214:8000/play/a054
+#EXTINF:-1 tvg-logo="https://imgur.com/cDlZdqE"group-title="♥ SPORTS TV ♥",Gazi Sports
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cDlZdqE"group-title="♥ SPORTS TV ♥", T Sports
+http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="♥ SPORTS TV ♥",PTV Sports
+http://103.153.39.36:9981/stream/channelid/2015951772?profile=pass
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/vinik-sport-and-entertainment-management-program-lecture-fox-sports-tv-logo-11568985815yinwmaozli.png" group-title="♥ SPORTS TV ♥",Fox Sports HD (News)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600000499989/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q=w300?v=1" group-title="♥ SPORTS TV ♥",BEN Sports Extra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="♥ SPORTS TV ♥",EDGE Sports
+https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="♥ SPORTS TV ♥",Red Bull Tv ♥
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,tvg-logo="ext" group-title="♥ SPORTS TV ♥",BEK Sports
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/89b077e6_1_3441000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="♥ SPORTS TV ♥", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="♥ SPORTS TV ♥",AD Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="♥ SPORTS TV ♥",AD Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="♥ SPORTS TV ♥",AD Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KOK_kickboxing_logo.jpg" group-title="♥ SPORTS TV ♥",KoK Fight SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jiffy360.com/wp-content/uploads/2019/05/4.jpg" group-title="♥ SPORTS TV ♥",SKY SPORTS 2 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="♥ SPORTS TV ♥",Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://pagestudio.s3.amazonaws.com/meducation/8b938a2f1606e129f32f438cad2d15ab.jpg" group-title="♥ SPORTS TV ♥",Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 3
+http://live.flixhub.net/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
+http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2
+http://live.flixhub.net/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.1
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
+http://live.flixhub.net/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MNX HD
+http://live.flixhub.net/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Enter 10 Bangla
+http://live.flixhub.net/hls/enterr10.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND Picture HD
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SET MAX HD
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Max
+http://live.flixhub.net/hls/sonymax.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colour CinePlex HD
+http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold HD
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold 2
+http://live.flixhub.net/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony ATT
+http://live.flixhub.net/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colour Bangla Cinema
+http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Jolsha Movies
+http://live.flixhub.net/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
+http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha HD
+http://live.flixhub.net/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla HD
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla HD
+http://live.flixhub.net/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colours Bangla HD
+http://live.flixhub.net/hls/colorsbangla.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
+http://live.flixhub.net/hls/dis-kid.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick
+http://live.flixhub.net/hls/nick.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
+http://live.flixhub.net/hls/cn.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",PoGo
+http://live.flixhub.net/hls/pogo.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
+http://live.flixhub.net/hls/utvaction.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies HD
+http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX HD
+http://live.flixhub.net/hls/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies Now HD
+http://live.flixhub.net/hls/movies-now.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
+http://live.flixhub.net/hls/mn+.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png"group-title="India Bangla TV", Enter 10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png"group-title="India Bangla TV", Sony ATT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Amar Bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Khusboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Star Jalsha
+http://103.166.253.222/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Zee Bangla
+http://208.86.19.21:80/906.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", HUM HD (Pakistan)
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", SONY Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Star PLUS
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", ZEE TV
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Colour HD
+http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Star Bharat HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/22
+
+
+
+
+ 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/X1HtTmr.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/HOB0eef.jpg",Sony Ten 1 (BDIX1)
